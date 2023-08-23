@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- Fondo del marco -->
+  <rect x="0" y="0" width="400" height="300" fill="#F0F0F0" />
+  <!-- Bordes ondulados -->
+  <path d="M10,10 Q200,0 390,10" fill="none" stroke="#000" stroke-width="20" />
+  <path d="M390,10 Q400,150 390,290" fill="none" stroke="#000" stroke-width="20" />
+  <path d="M390,290 Q200,300 10,290" fill="none" stroke="#000" stroke-width="20" />
+  <path d="M10,290 Q0,150 10,10" fill="none" stroke="#000" stroke-width="20" />
+</svg>
